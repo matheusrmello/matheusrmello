@@ -1,6 +1,6 @@
-### Olá! Eu sou Matheus Mello 👋
+### Olá! Eu sou Matheus Mello🤘
 
-- 🌱 Estou atualmente aprendendo HTML, CSS e JavaScript
+-💻 Estou atualmente aprendendo HTML, CSS e JavaScript
 
 
 <div>
