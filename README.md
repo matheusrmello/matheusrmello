@@ -6,14 +6,14 @@ I'm a passionate **DevOps Engineer** dedicated to building reliable, scalable, a
 
 ## 🛠️ Technologies & Tools
 
-- **Cloud**: AWS ☁️
+- **Cloud**: AWS, GCP ☁️
 - **Containers & Orchestration**: Docker 🐳 | Kubernetes ☸️
 - **Programming**: Python 🐍
 - **Infrastructure as Code**: Terraform 🌍
 - **CI/CD**: Jenkins, GitHub Actions, GitLab CI
-- **Observability**: Prometheus, Grafana, ELK Stack 📊
+- **Observability**: Prometheus, Grafana, Loki
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusrmello&show_icons=true&locale=en&layout=compact" alt="matheusrmello" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusrmello&show_icons=true&locale=en&layout=donut&theme=dracula" alt="matheusrmello" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusrmello&show_icons=true&locale=en" alt="matheusrmello" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusrmello&show_icons=true&locale=en&theme=dracula" alt="matheusrmello" /></p>
